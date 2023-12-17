@@ -1,4 +1,4 @@
-dic call(){
+def call(){
     sh 'mvn test'
 }
 
